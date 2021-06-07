@@ -1,0 +1,22 @@
+header {
+  background-image: url(../img/me.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+section {
+  padding: 150px;
+}
+
+#about {
+  background-color: rgb(117, 115, 115);
+}
+#contact {
+  /* background-color: rgb(58, 55, 55); */
+  background-color: rgb(255, 255, 255);
+}
